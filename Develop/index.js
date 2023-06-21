@@ -159,5 +159,5 @@ function init() {
 // Function call to initialize app
 init()
 .then(answers => generateMarkdown(answers))
-.then(generatedREADME => writeToFile("generated-README.md", generatedREADME));
+.then(generatedREADME => writeToFile("README.md", generatedREADME));
 
