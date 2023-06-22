@@ -33,3 +33,5 @@ THEN I am taken to the corresponding section of the README
 ```
 
 ## Video of the Application 
+
+![Video](./Develop/video/2023-06-21%2021-10-55.mp4)

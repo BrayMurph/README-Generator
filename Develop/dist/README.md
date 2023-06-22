@@ -1,49 +1,55 @@
 
-# a
+# Project
 
-
+![badge](https://img.shields.io/badge/license-mit-blue)
 
 ## Table-of-Contents
 
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-
+* [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
 
 ## [Description](#table-of-contents)
 
-a
+A project to be done.
 
-A
+For me.
 
-A
+Through VSCODE.
 
 ## [Installation](#table-of-contents)
 
-A
+By using the Node js library
 
 ## [Usage](#table-of-contents)
 
-A
+So that there can be a project made.
 
 
+  ## [License](#table-of-contents)
+  
+  The application has the following license:
+  
+  [mit](https://choosealicense.com/licenses/mit)
+  
 
 ## [Contributing](#table-of-contents)
 
-A
+By pushing to main
 
 ## [Tests](#table-of-contents)
 
-A
+Seeing if it works through node js
 
 ## [Questions](#table-of-contents)
 
 Where to contact if there are questions:
 
-[Github](https://github.com/AA)
+[Github](https://github.com/BrayMurph)
 
-[Email: A](mailto:A)
+[Email: brayxmurph@gmail.com](mailto:brayxmurph@gmail.com)
 
