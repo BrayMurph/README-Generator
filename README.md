@@ -34,4 +34,4 @@ THEN I am taken to the corresponding section of the README
 
 ## Video of the Application 
 
-![Video](./Develop/video/2023-06-21%2021-10-55.mp4)
+https://github.com/BrayMurph/README-Generator/assets/130401538/93e0312e-2843-41d6-8a79-2a8dc0f26b03
